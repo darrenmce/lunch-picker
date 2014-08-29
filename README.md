@@ -1,6 +1,6 @@
 #Lunch Picker
 
-#### Current Version - 0.0.3
+#### Current Version - 0.0.4
 
 ####A simple node library to help picking what to have for lunch
 
@@ -79,7 +79,7 @@ lp.init(items);
 
 ####addItem(name, weight)
 
-Add an item to the current picker.
+Add an item to the current picker. Returns the full item.
 
 ```
 lp.addItem('burritos', 3); //probability weight relative to others
