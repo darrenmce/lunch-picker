@@ -1,5 +1,7 @@
 #Lunch Picker
 
+#### Current Version - 0.0.3
+
 ####A simple node library to help picking what to have for lunch
 
 It's basically weighted random trials, except with a shifting 'luck' aspect that helps create a more even distribution.
@@ -71,7 +73,7 @@ var items = [
       trials: 0,
       luckFactor: 1
     }
-]
+];
 lp.init(items);
 ```
 
