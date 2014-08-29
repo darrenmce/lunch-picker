@@ -1,8 +1,8 @@
 {
   "name": "lunch-picker",
-  "version": "0.0.0",
+  "version": "0.0.2",
   "description": "Library for picking lunch",
-  "main": "index.js",
+  "main": "lib/lp.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
