@@ -1,6 +1,6 @@
 #Lunch Picker
 
-#### Current Version - 0.0.4
+#### Current Version - 0.0.5
 
 ####A simple node library to help picking what to have for lunch
 
