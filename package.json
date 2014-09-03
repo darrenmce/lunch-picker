@@ -1,6 +1,6 @@
 {
   "name": "lunch-picker",
-  "version": "0.0.5",
+  "version": "0.0.7",
   "description": "Library for picking lunch",
   "main": "lib/lp.js",
   "scripts": {
